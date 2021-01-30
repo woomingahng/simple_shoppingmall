@@ -29,6 +29,10 @@ body {
   padding: 1em 1em;
 }
 
+.logoarea {
+  cursor: pointer;
+}
+
 .filterarea {
   width: 100%;
   display: flex;
